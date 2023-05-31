@@ -1,9 +1,9 @@
 <h2 align="left">
- Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm a Edson Batista, Full Stack Web Developer :computer: 
+ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm a Edson Batista, Full Stack Web Developer :computer: 
 </h2> 
 
 - :computer: I'm a Fullstack Developer, currently exploring Android Studio
-- :hourglass_flowing_sand: Exploring Ruby & Ruby on Rails
+- :hourglass_flowing_sand: Exploring Ruby on Rails
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
