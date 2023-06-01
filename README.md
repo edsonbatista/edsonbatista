@@ -9,7 +9,7 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 <div align="left">
   <a href="https://github.com/edsonbatista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </h2> 
