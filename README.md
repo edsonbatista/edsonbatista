@@ -1,5 +1,5 @@
 <h2 align="left">
- Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm a Edson Batista, Full Stack Web Developer :computer: 
+ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm a Edson Batista :computer: 
 </h2> 
 
 - :computer: I'm a Fullstack Developer, currently exploring Android Studio
