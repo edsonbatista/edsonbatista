@@ -3,7 +3,6 @@
 </h2> 
 
 - :computer: I'm a Fullstack Developer, currently exploring Android Studio
-- :hourglass_flowing_sand: Exploring Ruby on Rails
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
